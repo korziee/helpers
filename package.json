@@ -1,0 +1,8 @@
+{
+  "name": "helpers",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "repository": "git@github.com:korziee/helpers.git",
+  "author": "Kory Porter <kory.porter@nextpracticehealth.com>",
+  "license": "MIT"
+}
