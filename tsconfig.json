@@ -9,6 +9,7 @@
     "sourceMap": true,
     "outDir": "lib",
     "baseUrl": ".",
+    "declaration": true,
     "strict": true /* Enable all strict type-checking options. */
   }
 }
